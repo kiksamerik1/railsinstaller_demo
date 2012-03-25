@@ -1,3 +1,6 @@
 --- 
-open_files: []
-
+open_files: 
+  - config/routes.rb
+  - app/controllers/welcome_controller.rb
+  - app/views/welcome/index.html.erb
+  - app/controllers/application_controller.rb

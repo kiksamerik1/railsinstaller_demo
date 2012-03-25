@@ -9,6 +9,15 @@ cursor_positions:
   - :path: app/views/layouts/application.html.erb
     :cursor_offset: 0
     :timestamp: 2012-03-25 11:20:33.890000 +01:00
+  - :path: config/routes.rb
+    :cursor_offset: 1392
+    :timestamp: 2012-03-25 12:25:09.608000 +01:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-25 12:25:09.608000 +01:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 42
+    :timestamp: 2012-03-25 12:28:02.890000 +01:00
   - :path: app/controllers/application_controller.rb
     :cursor_offset: 0
     :timestamp: 2012-03-25 11:20:33.874000 +01:00
